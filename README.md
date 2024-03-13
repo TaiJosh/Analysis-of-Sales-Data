@@ -1,10 +1,5 @@
 # Analysis-of-Sales-Data
 
-## Table of Contents
-
-- [Project Overview](Project-Overview)
-- [Data Source](Data-Source)
-
 ### Project Overview
 
 This project aims to analyze sales data of a store and identify the 3 highest-ranking products. Also the data was explored to determine:
@@ -43,12 +38,17 @@ This step involves exploring the dataset to answer important questions like:
 =QUERY(Data!A:I, "Select G, Sum(I) where G is not null Group by G Order by Sum(I)")
 ```
 
+### Data Visualization
+
+The clean data [Download here]( https://docs.google.com/spreadsheets/d/1yDEeKXQkbAVnSdjUZFudeWqc1eqMkIf1DCZ5JQxa5Rw/edit?usp=sharing) was loaded into Tableau Public for enhanced visualization and delving deeper into the sales data to obtain insights.
+
+
 ### Analysis and Insights
 
 Based on the analysis;
 -The 3 highest- ranking products are Reddy Beddy, Kitty Climber and Feline Fix MixHere in that order. 
 - The highest revenue recorded was generated in the year 2020.
-- Overall, the food category generated the lowest revenue of about $2,784 while the other 3 categories(bedding, toy and treat) did over $4,000 for each category. 
+- Overall, the food category generated the lowest revenue of about $2,784 while the other 3 categories (bedding, toy and treat) did over $4,000 for each category. 
 - There was a sudden drop in total sales in 2021.
 - Further investigation revealed that there were absolutely no sales recorded for the last 4 months of 2021 which must have impacted the overall sales.The transactions for those 4 months were probably omitted in error from the dataset provided for this analysis or the company stopped doing business.
 
