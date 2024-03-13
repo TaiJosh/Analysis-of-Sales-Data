@@ -50,15 +50,13 @@ This step involves exploring the dataset to answer important questions like:
 ### Data Visualization
 
 The clean data [Download here]( https://docs.google.com/spreadsheets/d/1yDEeKXQkbAVnSdjUZFudeWqc1eqMkIf1DCZ5JQxa5Rw/edit?usp=sharing) was loaded into Tableau Public for enhanced visualization and delving deeper into the sales data to obtain insights.
-View my interactive dashboard [here](https://public.tableau.com/app/profile/taiwo.joshua5521/viz/MostProfitableProductDashboard_17098801980210/MostProfitableProductDashboard?publish=yes)
+View my interactive dashboard [here](https://public.tableau.com/app/profile/taiwo.joshua5521/viz/MostProfitableProductDashboard_17098801980210/MostProfitableProductDashboard?publish=yes).
 
-
-![Most Profitable Product Dashboard](https://github.com/TaiJosh/Analysis-of-Sales-Data/assets/49366771/815e37d1-8094-49e1-9629-0796ae466790)
-
-### Analysis and Insights
+### Analysis/Insights
 
 Based on the analysis;
--The 3 highest- ranking products are Reddy Beddy, Kitty Climber and Feline Fix MixHere in that order. 
+
+- The 3 highest- ranking products are Reddy Beddy, Kitty Climber and Feline Fix MixHere in that order. 
 - The highest revenue recorded was generated in the year 2020.
 - Overall, the food category generated the lowest revenue of about $2,784 while the other 3 categories (bedding, toy and treat) did over $4,000 for each category. 
 - There was a sudden drop in total sales in 2021.
@@ -69,6 +67,8 @@ Based on the analysis;
 - Further investigation to know why there was no sales recorded for the last 4 months of 2021.
 - The marketing team should work on a strategy to improve the sales of food category as this category generated the lowest revenue overall.
 
+### Challenges/Lessons
+It was challenging fixing the missing values but with critical attention to the dataset and sacrificing time, I was able to fix it. My key lesson from this project is that, I was reminded that the most time consuming task of a Data Analyst is data cleaning.
 
 
 
